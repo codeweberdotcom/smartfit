@@ -12,6 +12,6 @@ This is the child theme for Codeweber theme, generated with Generate Child Theme
 */
 
 /* cf7 texterea */
-textarea.form-control {
-    min-height: calc(1.7em + 1.2rem + 2px);
+#floatingTextarea.message-height {
+    height: 150px !important;
   }
