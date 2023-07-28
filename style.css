@@ -10,3 +10,8 @@ This is the child theme for Codeweber theme, generated with Generate Child Theme
 (optional values you can add: Theme URI, Author URI, License, License URI, Tags, Text Domain)
 
 */
+
+/* cf7 texterea */
+textarea.form-control {
+    min-height: calc(1.7em + 1.2rem + 2px);
+  }
